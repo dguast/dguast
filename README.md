@@ -1,7 +1,5 @@
-### Hi there 👋
-🔭 I’m currently working on AI-based robot navigation
-
-
+### Hi there! 👋 
+🤖 I’m currently working on AI-based robot navigation 🧭
 
 
 
